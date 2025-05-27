@@ -1,3 +1,4 @@
+![Screenshot 2025-05-27 234640](https://github.com/user-attachments/assets/60ffe532-e44f-4b02-8f18-19095898d95c)
 
 # Real-Time Distributed Chat System 🚀
 
