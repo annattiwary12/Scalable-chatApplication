@@ -6,6 +6,13 @@ A scalable real-time messaging system built using **Socket.IO**, **Redis (Pub/Su
 
 ---
 
+## 📸 Demo Screenshot
+
+(https://github.com/user-attachments/assets/3a0099ea-d906-47ad-97bd-eb3cf2e78576)
+
+
+---------------
+
 ## 📦 Monorepo Powered by TurboRepo
 
 This project follows a **monorepo structure** using [TurboRepo](https://turbo.build/repo) to manage the different parts of the system efficiently. TurboRepo enables:
@@ -31,5 +38,28 @@ This project follows a **monorepo structure** using [TurboRepo](https://turbo.bu
 ## 📊 Architecture Overview
 ![Screenshot 2025-05-27 234640](https://github.com/user-attachments/assets/60ffe532-e44f-4b02-8f18-19095898d95c)
 ---
+
+---
+
+## 🔧 Technologies Used
+
+| Tech             | Purpose                                      |
+|------------------|----------------------------------------------|
+| **TurboRepo**     | Monorepo management & task orchestration     |
+| **Socket.IO**     | Real-time communication (WebSocket)          |
+| **Redis (Aiven)** | Pub/Sub for syncing distributed servers      |
+| **Kafka (Aiven)** | Reliable, fault-tolerant message streaming   |
+| **PostgreSQL**    | Persistent chat storage                      |
+| **Node.js**       | Kafka consumer, socket server logic          |
+
+---
+
+
+---
+
+
+
+
+
 
 
