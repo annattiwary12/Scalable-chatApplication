@@ -7,8 +7,7 @@ A scalable real-time messaging system built using **Socket.IO**, **Redis (Pub/Su
 ---
 
 ## 📸 Demo Screenshot
-
-(https://github.com/user-attachments/assets/3a0099ea-d906-47ad-97bd-eb3cf2e78576)
+(https://github.com/user-attachments/assets/237aa78c-248b-440b-bd96-d15526b307c3)-47ad-97bd-eb3cf2e78576)
 
 
 ---------------
