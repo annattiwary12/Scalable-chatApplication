@@ -37,7 +37,7 @@ class SocketService {
 
   public initListeners() {
     this._io.on('connection', (socket) => {
-      console.log('⚡ New socket connected:', socket.id);
+      console.log(' New socket connected:', socket.id);
 
       socket.on('event:message', async ({ message }: { message: string }) => {
         console.log(' New message received:', message);
