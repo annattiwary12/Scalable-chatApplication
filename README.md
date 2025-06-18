@@ -1,6 +1,7 @@
 
 
 # Real-Time Distributed Chat System 🚀
+# https://github.com/annattiwary12/Scalable-chatApplication
 
 A scalable real-time messaging system built using **Socket.IO**, **Redis (Pub/Sub)**, **Kafka**, and **PostgreSQL**, designed to support distributed servers with reliable message delivery and persistent chat history. Managed with **TurboRepo** for monorepo orchestration and optimized development workflows. Hosted using **Aiven's managed services**.
 
